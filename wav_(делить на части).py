@@ -1,6 +1,6 @@
 from pydub import AudioSegment
 
-sound = AudioSegment.from_wav("example.wav")
+sound = AudioSegment.from_wav("all.wav")
 
 a = 5000
 
